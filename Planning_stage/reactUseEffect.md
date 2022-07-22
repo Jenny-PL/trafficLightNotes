@@ -1,0 +1,3 @@
+# useEffect
+- I think I'll need to use this to deal with time & not re-render my tracking of time, despite changes in visual....
+- [Learn lesson related to useEffect](https://learn-2.galvanize.com/cohorts/3167/blocks/1449/content_files/useeffect-and-calling-apis/useeffect-after-render.md)
