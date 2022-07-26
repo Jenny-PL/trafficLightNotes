@@ -1,0 +1,26 @@
+paths
+for Winnie the Pooh:
+    /Users/jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_00_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_01_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_02_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_03_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_04_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_05_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_06_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_07_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_08_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_09_milne_64kb.mp3 /
+    Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_10_milne_64kb.mp3
+
+{
+    "audiobooks": [
+        {"Winnie the Pooh": [
+            {"chapter1": "/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_00_milne_64kb.mp3"}, 
+            {"chapter2 ":" / Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_01_milne_64kb.mp3 " }
+        ]}, 
+        {"Another Title": [
+            {"chapter1": "add file path"},
+            {"chapter2": "add another file path"}
+        ] }
+                        ]
+                        }
