@@ -16,7 +16,16 @@ for Winnie the Pooh:
     "audiobooks": [
         {"Winnie the Pooh": [
             {"chapter1": "/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_00_milne_64kb.mp3"}, 
-            {"chapter2 ":" / Users / jennyluong / Desktop / TrafficLightAudio / AudioBooks / winnie - the - pooh_2_2201_librivox / winniethepooh2_01_milne_64kb.mp3 " }
+            {"chapter2":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_01_milne_64kb.mp3"},
+            {"chapter3":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_02_milne_64kb.mp3"},
+            {"chapter4":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_03_milne_64kb.mp3"},
+            {"chapter5":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_04_milne_64kb.mp3"},
+            {"chapter6":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_05_milne_64kb.mp3"},
+            {"chapter7":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_06_milne_64kb.mp3"},
+            {"chapter8":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_07_milne_64kb.mp3"},
+            {"chapter9":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_08_milne_64kb.mp3"},
+            {"chapter10":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_09_milne_64kb.mp3"},
+            {"chapter11":"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_10_milne_64kb.mp3"},
         ]}, 
         {"Another Title": [
             {"chapter1": "add file path"},
@@ -24,3 +33,36 @@ for Winnie the Pooh:
         ] }
                         ]
                         }
+
+{ "title": "Winnie the Pooh",
+    "chapters": ["/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_00_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_01_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_02_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_03_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_04_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_05_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_06_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_07_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_08_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_09_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_10_milne_64kb.mp3"]
+}
+
+
+
+{
+    "_id": {
+        "$oid": "62e03c4196138b952dfff2e0"
+    }, "title": "Winnie the Pooh",
+    "chapters": ["/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_00_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_01_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_02_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_03_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_04_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_05_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_06_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_07_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_08_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_09_milne_64kb.mp3",
+"/Users/jennyluong/Desktop/TrafficLightAudio/AudioBooks/winnie-the-pooh_2_2201_librivox/winniethepooh2_10_milne_64kb.mp3"]
+}
